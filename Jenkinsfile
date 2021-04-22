@@ -69,3 +69,4 @@ pipeline {
     maven 'Maven 3.6.3'
   }
 }
+
